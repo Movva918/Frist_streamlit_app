@@ -1,3 +1,3 @@
-import Streamlit
+     import streamlit
 
-Streamlit.title('My parents New healty Meal Plan')
+     streamlit.title('My parents New healty Meal Plan')
